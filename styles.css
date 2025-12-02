@@ -67,7 +67,7 @@ nav {
 /* Mobile smaller logo */
 @media (max-width: 768px) {
   .logo-img {
-    height: 50px !important;
+    height: 30px !important;
 }
 
 .nav-links {
@@ -514,6 +514,7 @@ footer p {
     grid-template-columns: 1fr;
   }
 }
+
 
 
 
