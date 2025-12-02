@@ -60,14 +60,8 @@ nav {
 }
 
 .logo-img {
-  height: 80px !important; /* Force bigger — 80px for desktop, 50px mobile */
-  width: auto !important;
-}
-
-/* Mobile smaller logo */
-@media (max-width: 768px) {
-  .logo-img {
-    height: 70px !important;
+  height: 80px; /* Force bigger — 80px for desktop, 50px mobile */
+  width: auto;
 }
 
 .nav-links {
@@ -514,6 +508,7 @@ footer p {
     grid-template-columns: 1fr;
   }
 }
+
 
 
 
