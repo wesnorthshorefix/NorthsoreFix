@@ -60,8 +60,14 @@ nav {
 }
 
 .logo-img {
-  height: 600px; /* Makes logo small — tweak to 30px/50px if needed */
-  width: auto; 
+  height: 60px !important; /* Force bigger — 80px for desktop, 50px mobile */
+  width: auto !important;
+}
+
+/* Mobile smaller logo */
+@media (max-width: 768px) {
+  .logo-img {
+    height: 50px !important;
 }
 
 .nav-links {
@@ -508,6 +514,7 @@ footer p {
     grid-template-columns: 1fr;
   }
 }
+
 
 
 
