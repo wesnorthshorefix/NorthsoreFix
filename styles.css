@@ -60,7 +60,7 @@ nav {
 }
 
 .logo-img {
-  height: 100px; /* Force bigger — 80px for desktop, 50px mobile */
+  height: 200px; /* Force bigger — 80px for desktop, 50px mobile */
   width: auto;
 }
 
@@ -508,6 +508,7 @@ footer p {
     grid-template-columns: 1fr;
   }
 }
+
 
 
 
