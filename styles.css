@@ -60,7 +60,7 @@ nav {
 }
 
 .logo-img {
-  height: 100px; /* Makes logo small — tweak to 30px/50px if needed */
+  height: 300px; /* Makes logo small — tweak to 30px/50px if needed */
   width: auto; 
 }
 
@@ -508,4 +508,5 @@ footer p {
     grid-template-columns: 1fr;
   }
 }
+
 
