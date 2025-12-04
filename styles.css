@@ -276,7 +276,7 @@ section:nth-child(even) {
 }
 
 .portfolio-item img {
-  width: 100%;
+  width: 300%;
   height: 300px;
   object-fit: contain;
 }
@@ -508,6 +508,7 @@ footer p {
     grid-template-columns: 1fr;
   }
 }
+
 
 
 
